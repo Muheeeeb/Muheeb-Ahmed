@@ -3,7 +3,7 @@
 <div align="center">
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1500&color=EDEDED&center=true&vCenter=true&repeat=true&width=700&height=50&lines=MUHEEB+AHMED" />
+# MUHEEB AHMED
 
 <br/>
 
@@ -16,18 +16,14 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muheeb-ahmed-58223a275">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:muheebahmed1833@gmail.com">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/Muheeeeb">
-<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=0a0a0a" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muheeeeb&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&label=VIEWS" height="25" />
 
 </div>
 
@@ -101,6 +97,49 @@ Currently focused on training AI models and shipping full-stack applications acr
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" height="45" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+
+### Featured Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Samsung EMAX](https://www.samsung-emax.com/)**
+<br/><br/>
+<sub>Full-scale e-commerce platform for electronics & home appliances. Features product catalogs, group purchasing deals, order management, and customer support integration.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Production-00C853?style=flat-square&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+**[Panda Delivery](https://www.pandadeliveryofficial.com/)**
+<br/><br/>
+<sub>Delivery service platform for fast and reliable order fulfillment. Single-page application with dynamic client-side rendering and real-time tracking capabilities.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/SPA-4285F4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/In_Development-FFA000?style=flat-square&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<sub>+ Additional private/enterprise projects across AI, web, and mobile domains.</sub>
 
 </div>
 
