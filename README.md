@@ -1,93 +1,84 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=1&section=header" width="100%" />
+
 <div align="center">
+<br/>
 
-# Hey, I'm Muheeb Ahmed
-
-### AI Engineer & Full Stack Developer
-
-I build **web apps**, **mobile apps**, and **train AI models**.<br/>
-Gold Medalist in AI | CGPA 3.73 | Based in Islamabad
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1500&color=EDEDED&center=true&vCenter=true&repeat=true&width=700&height=50&lines=MUHEEB+AHMED" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muheeb-ahmed-58223a275)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:muheebahmed1833@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/Muheeeeb)
+**AI Engineer | Full Stack Developer | Gold Medalist**
+
+<sub>I architect intelligent systems and ship production-grade software.</sub>
+<br/>
+<sub>From training neural networks to deploying scalable web and mobile applications — I build the full stack of AI-powered products.</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/muheeb-ahmed-58223a275">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a" />
+</a>&nbsp;
+<a href="mailto:muheebahmed1833@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a" />
+</a>&nbsp;
+<a href="https://github.com/Muheeeeb">
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=0a0a0a" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muheeeeb&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&label=VIEWS" height="25" />
 
 </div>
 
-<br/>
-
-## What I Do
-
-```
-Web Applications     Full stack web apps with React, Next.js, Node.js, Laravel
-Mobile Applications  Cross-platform mobile apps with React Native & Expo
-AI / ML              Training and deploying AI models with Python
-End-to-End Products  From idea to deployment — I build the whole thing
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-## Tech
+<table align="center">
+<tr><td colspan="2">
 
-<table>
+<br/>
+
+### About
+
+Gold Medalist in Artificial Intelligence with a CGPA of **3.73**. I work at the intersection of AI research and software engineering — building end-to-end products that leverage machine learning, modern web frameworks, and mobile platforms.
+
+Currently focused on training AI models and shipping full-stack applications across multiple domains.
+
+<br/>
+
+</td></tr>
 <tr>
-<td><b>Languages</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+### What I Build
+
+**Intelligent Web Applications**
+<sub>Full-stack platforms powered by AI — from recommendation engines to real-time data pipelines. React, Next.js, Node.js, Laravel.</sub>
+
+**Mobile Applications**
+<sub>Cross-platform apps with React Native and Expo, integrated with backend intelligence and cloud services.</sub>
+
+**AI / ML Systems**
+<sub>End-to-end ML pipelines — data processing, model training, fine-tuning, evaluation, and deployment into production.</sub>
 
 </td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+### Core Expertise
 
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
+**Artificial Intelligence**
+<sub>Deep Learning, NLP, Computer Vision, Model Training & Fine-tuning, MLOps</sub>
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+**Full Stack Development**
+<sub>React, Next.js, Node.js, Express, Laravel, REST APIs, Database Architecture</sub>
 
-</td>
-</tr>
-<tr>
-<td><b>Mobile</b></td>
-<td>
+**Mobile Development**
+<sub>React Native, Expo, Cross-Platform Deployment</sub>
 
-![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
-
-</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn)
-
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+**Data & Infrastructure**
+<sub>PostgreSQL, MongoDB, MySQL, Prisma ORM, Cloud Deployment</sub>
 
 </td>
 </tr>
@@ -95,39 +86,70 @@ End-to-End Products  From idea to deployment — I build the whole thing
 
 <br/>
 
-## GitHub
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muheeeeb&hide_border=true&background=000&ring=58a6ff&fire=fff&currStreakLabel=fff&sideLabels=aaa&dates=555&stroke=00000000&currStreakNum=fff&sideNums=fff" />
+### Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind&theme=dark" height="45" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muheeeeb&bg_color=000000&color=58a6ff&line=ffffff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&theme=dark" height="45" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" height="45" />
 
 </div>
 
 <br/>
 
-## Top Languages
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheeeeb&layout=compact&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&langs_count=8" />
+### GitHub Analytics
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Muheeeeb&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=4a5568&stroke=00000000&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muheeeeb&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a2332&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muheeeeb&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Muheeeeb&style=flat-square&color=000&label=Profile+Views&labelColor=000" />
+<br/>
+
+<sub>Open to collaboration on AI-driven products, full-stack platforms, and research.</sub>
+<br/>
+<sub>Let's build something intelligent.</sub>
 
 <br/><br/>
 
-**Building things that matter.**
+<a href="https://www.linkedin.com/in/muheeb-ahmed-58223a275">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a" />
+</a>
+
+<br/><br/>
 
 </div>
