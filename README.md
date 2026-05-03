@@ -9,6 +9,6 @@ Check out my [LinkedIn](https://www.linkedin.com/in/muheeb-ahmed-58223a275) · [
 
 **[Samsung EMAX](https://www.samsung-emax.com/)** `Live` - Full-scale e-commerce platform for Samsung electronics. Product catalog, group purchasing, order management — serving real customers in production.
 
-**[Panda Delivery](https://www.pandadeliveryofficial.com/)** `In Progress` - End-to-end delivery platform with real-time order tracking and fulfillment logistics.
+**[Panda Delivery](https://www.pandadeliveryofficial.com/)** `Live` - End-to-end delivery platform with real-time order tracking and fulfillment logistics.
 
 > More client & enterprise projects across AI, web, and mobile — under NDA.
